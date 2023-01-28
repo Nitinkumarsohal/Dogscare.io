@@ -15,8 +15,7 @@
 header{
     position: fixed;
     width: 100%;
-    background-color:red;
-/*     background-color: transparent; */
+    background-color: transparent;
 
 }
 .navbar .nav-link{
